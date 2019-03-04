@@ -40,7 +40,7 @@
   },
   "dependencies": {
     "debug": "^3.1.0",
-    "koa-locales": "^1.7.0"
+    "koa-locales": "git+https://github.com/qdechochen/locales.git"
   },
   "devDependencies": {
     "autod": "^2.10.1",
